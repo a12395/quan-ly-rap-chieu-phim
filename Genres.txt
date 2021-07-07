@@ -1,0 +1,11 @@
+1	Action
+2	Adventure
+3	Comedy
+4	Crime&Ganster
+5	Drama
+6	Epics/Historical
+7	Horror
+8	Musicals/dance
+9	Science fiction
+10	War
+11	Westerns
